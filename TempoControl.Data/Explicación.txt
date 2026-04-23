@@ -1,0 +1,1 @@
+Aquí se gestiona el acceso a datos. Contiene el repositorio que se comunica con SQLite para guardar y recuperar la información de los empleados y sus horas.
