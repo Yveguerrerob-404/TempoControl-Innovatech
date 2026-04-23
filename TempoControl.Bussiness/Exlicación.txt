@@ -1,0 +1,1 @@
+Esta es la capa de lógica de negocio. Aquí se realizan los cálculos mensuales de horas trabajadas y se procesan las reglas del sistema de Innovatech.
