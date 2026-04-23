@@ -1,0 +1,1 @@
+Capa de presentación. Contiene el menú de consola y la interacción con el usuario para gestionar el control de asistencia.
