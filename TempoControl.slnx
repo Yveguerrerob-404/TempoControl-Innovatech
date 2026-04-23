@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TempoControl.Business/TempoControl.Business.csproj" />
+  <Project Path="TempoControl.Data/TempoControl.Data.csproj" />
+  <Project Path="TempoControl.Domain/TempoControl.Domain.csproj" />
+  <Project Path="TempoControl.UI/TempoControl.UI.csproj" />
+</Solution>
