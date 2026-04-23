@@ -1,0 +1,1 @@
+Esta capa contiene las entidades de negocio puras, como Empleado y RegistroFichaje. Aquí definimos la estructura de los datos sin ninguna lógica externa.
